@@ -1,0 +1,8 @@
+/Applications/C#/Time/bin/Debug/netcoreapp1.1/Time.deps.json
+/Applications/C#/Time/bin/Debug/netcoreapp1.1/Time.runtimeconfig.json
+/Applications/C#/Time/bin/Debug/netcoreapp1.1/Time.runtimeconfig.dev.json
+/Applications/C#/Time/bin/Debug/netcoreapp1.1/Time.dll
+/Applications/C#/Time/bin/Debug/netcoreapp1.1/Time.pdb
+/Applications/C#/Time/obj/Debug/netcoreapp1.1/Time.AssemblyInfo.cs
+/Applications/C#/Time/obj/Debug/netcoreapp1.1/Time.dll
+/Applications/C#/Time/obj/Debug/netcoreapp1.1/Time.pdb
